@@ -44,4 +44,4 @@ Microsoft Documentation: https://docs.microsoft.com/en-us/troubleshoot/windows-s
 
 License
 -------
-Distributed under the GPL-3.0 license. See the LICENSE file for more information.
+Distributed under the GPL-3.0 license. See the LICENSE file for more information. https://github.com/aous-al-salek/Native-Windows-NTP-Server/blob/main/LICENSE
