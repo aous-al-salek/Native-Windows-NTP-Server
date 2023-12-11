@@ -49,7 +49,7 @@ copies or substantial portions of the Software.
 
 ## Getting Started
 
-This program creates a native Windows NTP server that specifies both `time.windows.com` and `pool.ntp.org` as upstream NTP servers. Both files `Create-NTPServer.ps1` & `Setup.bat` are needed. Download both files to the NTP server and place them in the same folder. Run the `Setup.bat` file as Administrator, which will execute the `Create-NTPServer.ps1` script with the correct parameters.
+This program creates a native Windows NTP server that specifies both `time.windows.com` and `pool.ntp.org` as upstream NTP servers. Both files `Create-NTPServer.ps1` & `Setup.bat` are needed. Download the [latest release](https://github.com/aous-al-salek/Native-Windows-NTP-Server/releases/latest) and unzip all files in the same folder (keep all unzipped files in the same folder). Run the `Setup.bat` file as Administrator, which will execute the `Create-NTPServer.ps1` script with the correct parameters.
 
 <p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
