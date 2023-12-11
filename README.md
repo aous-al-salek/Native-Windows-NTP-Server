@@ -65,7 +65,7 @@ There are no requirements other than the operating system to be Windows and Admi
 
 ## Installation
 
-Run the `Setup.bat`, which will execute the `Create-NTPServer.ps1` script with the correct parameters. Go through the on-screen information and confirm your choice. During the installation a log file will be created in the same directory the program is located. The log file naming scheme is `installation-yyyy-MM-dd-HH-mm-ss.log`.
+Run the `Setup.bat`, which will execute the `Create-NTPServer.ps1` script with the correct parameters. Go through the on-screen information and confirm your choice. During the installation, a log file will be created in the same directory the program is located. The log file naming scheme is `installation-yyyy-MM-dd-HH-mm-ss.log`.
 
 <details>
   <summary>Installation Steps</summary>
