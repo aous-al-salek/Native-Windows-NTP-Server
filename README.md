@@ -70,15 +70,15 @@ Run the `Setup.bat` file as Administrator, which will execute the `Create-NTPSer
 <details>
   <summary>Installation Steps</summary>
   <ul>
-    <p align="center"><img src="./images/1.PNG"/></p>
-    <p align="center"><img src="./images/2.PNG"/></p>
-    <p align="center"><img src="./images/3.PNG"/></p>
-    <p align="center"><img src="./images/4.PNG"/></p>
-    <p align="center"><img src="./images/5.PNG"/></p>
-    <p align="center"><img src="./images/6.PNG"/></p>
-    <p align="center"><img src="./images/7.PNG"/></p>
-    <p align="center"><img src="./images/8.PNG"/></p>
-    <p align="center"><img src="./images/9.PNG"/></p>
+    <p align="center"><img src="https://github.com/aous-al-salek/Native-Windows-NTP-Server/blob/main/images/1.PNG"/></p>
+    <p align="center"><img src="https://github.com/aous-al-salek/Native-Windows-NTP-Server/blob/main/images/2.PNG"/></p>
+    <p align="center"><img src="https://github.com/aous-al-salek/Native-Windows-NTP-Server/blob/main/images/3.PNG"/></p>
+    <p align="center"><img src="https://github.com/aous-al-salek/Native-Windows-NTP-Server/blob/main/images/4.PNG"/></p>
+    <p align="center"><img src="https://github.com/aous-al-salek/Native-Windows-NTP-Server/blob/main/images/5.PNG"/></p>
+    <p align="center"><img src="https://github.com/aous-al-salek/Native-Windows-NTP-Server/blob/main/images/6.PNG"/></p>
+    <p align="center"><img src="https://github.com/aous-al-salek/Native-Windows-NTP-Server/blob/main/images/7.PNG"/></p>
+    <p align="center"><img src="https://github.com/aous-al-salek/Native-Windows-NTP-Server/blob/main/images/8.PNG"/></p>
+    <p align="center"><img src="https://github.com/aous-al-salek/Native-Windows-NTP-Server/blob/main/images/9.PNG"/></p>
   </ul>
 </details>
 
