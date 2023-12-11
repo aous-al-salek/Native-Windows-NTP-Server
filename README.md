@@ -57,7 +57,7 @@ This program creates a native Windows NTP server that specifies both `time.windo
 
 ## Requirements
 
-There are no requirements other than the operating system to be Windows and the `Setup.bat` file to run as Administrator because this program leverages the `W32Time` service. This has been tested with Windows Server 2012, 2016, 2019, and 2022, both Standard and Data Center editions. It can even run on client versions of Windows and has been tested on Windows 10 Pro and Enterprise.
+There are no requirements other than the operating system to be Windows and Administrator privileges because this program leverages the `W32Time` service. This has been tested with Windows Server 2012, 2016, 2019, and 2022, both Standard and Data Center editions. It can even run on client versions of Windows and has been tested on Windows 10 Pro and Enterprise.
 
 <p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
@@ -65,7 +65,7 @@ There are no requirements other than the operating system to be Windows and the 
 
 ## Installation
 
-Run the `Setup.bat` file as Administrator, which will execute the `Create-NTPServer.ps1` script with the correct parameters. Go through the on-screen information and confirm your choice.
+Run the `Setup.bat`, which will execute the `Create-NTPServer.ps1` script with the correct parameters. Go through the on-screen information and confirm your choice. During the installation a log file will be created in the same directory the program is located. The log file naming scheme is `installation-yyyy-MM-dd-HH-mm-ss.log`.
 
 <details>
   <summary>Installation Steps</summary>
