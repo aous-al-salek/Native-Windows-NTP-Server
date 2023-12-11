@@ -22,6 +22,13 @@
 # https://docs.microsoft.com/en-us/troubleshoot/windows-server/identity/configure-w32ime-against-huge-time-offset #
 ###################################################################################################################
 
+$datetime   = Get-Date -f 'yyyy-MM-dd-HH-mm-ss'
+$scrip_path = $MyInvocation.MyCommand.Path
+$scrip_directory = Split-Path $scrip_path -Parent
+$filename = "installation-${datetime}.log"
+$transcript_path = Join-Path -Path $scrip_directory -ChildPath $filename
+Start-Transcript -Path $transcript_path
+
 Function Get-Choice ([string]$Text1, [string]$Text2, [string]$Option1, [string]$Option2) {
     Add-Type -AssemblyName System.Windows.Forms
     Add-Type -AssemblyName System.Drawing

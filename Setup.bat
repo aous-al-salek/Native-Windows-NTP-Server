@@ -1,4 +1,3 @@
 @echo off & setlocal
-cd /d "%~dp0"
-echo Hello!
-powershell -ExecutionPolicy ByPass -Window Minimized -Command ".\Create-NTPServer.ps1"
+
+powershell -ExecutionPolicy ByPass -Window Minimized -Command "Start-Process PowerShell -verb runas -ArgumentList '-ExecutionPolicy ByPass -Window Minimized','-File','%~dp0Create-NTPServer.ps1'"
