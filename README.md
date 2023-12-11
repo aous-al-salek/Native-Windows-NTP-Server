@@ -100,6 +100,6 @@ Microsoft Documentation: [How to configure the Windows Time service against a la
 
 ## License
 
-Distributed under the GPL-3.0 license. See the `LICENSE` file for more information.
+Distributed under the GPL-3.0 license. See the [`LICENSE`](https://github.com/aous-al-salek/Native-Windows-NTP-Server/blob/main/LICENSE) file for more information.
 
 <p align="right">(<a href="#readme-top">⬆️</a>)</p>
