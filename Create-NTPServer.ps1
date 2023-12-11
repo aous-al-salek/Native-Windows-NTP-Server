@@ -232,7 +232,7 @@ if ($decision -like 'OK') {
     Return
 }
 
-$decision = Get-Choice 'Time Service' 'Running this program will cause the "w32Time" service to be temporarly stopped.
+$decision = Get-Choice 'Time Service' 'Running this program will cause the "W32Time" service to be temporarly stopped.
 
 Do you want to proceed?' 'Yes' 'No'
 if ($decision -like 'OK') {
@@ -302,7 +302,7 @@ if ($decision -like 'OK') {
     Return
 }
 
-$decision = Get-Choice 'Windows Firewall' 'This program will create an inbound firewall rule called "NTP Server" to allow the time service "w32Time" to listen on UDP port 123.
+$decision = Get-Choice 'Windows Firewall' 'This program will create an inbound firewall rule called "NTP Server" to allow the time service "W32Time" to listen on UDP port 123.
 
 Do you want to proceed?' 'Yes' 'No'
 if ($decision -like 'OK') {
